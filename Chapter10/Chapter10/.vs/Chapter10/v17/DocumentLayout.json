@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\Grade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\CircleVectorManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\Grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\CircleVectorManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\15\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\15\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\13\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\13\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\11\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\11\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\9\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\9\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\7\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\7\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\5\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\5\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\3\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\3\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\1\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC308F30-B5DF-4DE8-B519-F42902E1992E}|Chapter10\\Chapter10.vcxproj|solutionrelative:Chapter10\\1\uBC88\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E180E3-0C5E-6207-0FE4-9C07A4444D66}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_2a24c2dc\\SingleFileISense\\_sfi_a366f3d2-0a91-4583-8242-d222071ddd26_.vcxproj|C:\\USERS\\ADMIN\\DESKTOP\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\PRAC10\\10-15\\CIRCLE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E180E3-0C5E-6207-0FE4-9C07A4444D66}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_2a24c2dc\\SingleFileISense\\_sfi_a366f3d2-0a91-4583-8242-d222071ddd26_.vcxproj|C:\\USERS\\ADMIN\\DESKTOP\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\PRAC10\\10-15\\UI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E180E3-0C5E-6207-0FE4-9C07A4444D66}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_2a24c2dc\\SingleFileISense\\_sfi_a366f3d2-0a91-4583-8242-d222071ddd26_.vcxproj|C:\\USERS\\ADMIN\\DESKTOP\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\PRAC10\\10-15\\CIRCLEVECTORMANAGER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E180E3-0C5E-6207-0FE4-9C07A4444D66}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_2a24c2dc\\SingleFileISense\\_sfi_a366f3d2-0a91-4583-8242-d222071ddd26_.vcxproj|C:\\USERS\\ADMIN\\DESKTOP\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\PRAC10\\10-13\\GRADE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-11\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-7\\bigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-5\\concat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-1\\biggest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "3\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\3\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\3\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\3\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\3\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:41:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "5\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\5\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\5\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\5\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\5\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:41:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "7\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\7\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\7\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\7\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\7\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:42:02.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "9\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\9\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\9\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\9\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\9\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:42:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "11\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\11\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\11\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\11\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\11\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:42:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "13\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\13\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\13\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\13\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\13\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:42:25.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "15\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\15\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\15\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\15\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\15\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:42:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircleVectorManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\CircleVectorManager.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.cpp",
+              "RelativeToolTip": "Chapter10\\CircleVectorManager.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvykAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:46:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\Grade.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.cpp",
+              "RelativeToolTip": "Chapter10\\Grade.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:44:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\UI.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.cpp",
+              "RelativeToolTip": "Chapter10\\UI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:46:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Circle.h",
+              "RelativeDocumentMoniker": "Chapter10\\Circle.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Circle.h",
+              "RelativeToolTip": "Chapter10\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:47:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleVectorManager.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.h",
+              "RelativeDocumentMoniker": "Chapter10\\CircleVectorManager.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\CircleVectorManager.h",
+              "RelativeToolTip": "Chapter10\\CircleVectorManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:46:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.h",
+              "RelativeDocumentMoniker": "Chapter10\\Grade.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\Grade.h",
+              "RelativeToolTip": "Chapter10\\Grade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:45:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.h",
+              "RelativeDocumentMoniker": "Chapter10\\UI.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\UI.h",
+              "RelativeToolTip": "Chapter10\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:47:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "1\uBC88\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\1\uBC88\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "Chapter10\\1\uBC88\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\Chapter10\\Chapter10\\Chapter10\\1\uBC88\uBB38\uC81C.cpp",
+              "RelativeToolTip": "Chapter10\\1\uBC88\uBB38\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:41:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Circle.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Circle.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Circle.h",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:47:40.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.h",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:47:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CircleVectorManager.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.h",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:46:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\UI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:46:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CircleVectorManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\CircleVectorManager.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvz8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:46:14.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-15\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:45:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Grade.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.h",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T15:44:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Grade.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\Grade.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:44:14.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-13\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:44:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-11\\Book.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-11\\Book.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-11\\Book.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-11\\Book.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:43:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bigger.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-7\\bigger.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-7\\bigger.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-7\\bigger.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-7\\bigger.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvygAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:43:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "concat.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-5\\concat.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-5\\concat.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-5\\concat.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-5\\concat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:43:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "biggest.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-1\\biggest.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-1\\biggest.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-1\\biggest.cpp",
+              "RelativeToolTip": "..\\..\\..\\\uC2DC\uD5D8\uC5F0\uC2B5\uD30C\uC77C\\\uC5F0\uC2B5\uBB38\uC81C \uC2E4\uC2B5 \uC815\uB2F5\uC774 \uACF5\uAC1C\uB41C \uBB38\uC81C\uB4E4\\prac10\\10-1\\biggest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:43:01.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
